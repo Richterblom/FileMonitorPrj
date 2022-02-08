@@ -1,0 +1,11 @@
+c:\users\richter\source\repos\FileMonitorProject\FileMonitorProject\bin\Debug\FileMonitorProject.exe
+c:\users\richter\source\repos\FileMonitorProject\FileMonitorProject\bin\Debug\FileMonitorProject.pdb
+c:\users\richter\source\repos\FileMonitorProject\FileMonitorProject\obj\Debug\FileMonitorProject.FileMonitor.resources
+c:\users\richter\source\repos\FileMonitorProject\FileMonitorProject\obj\Debug\FileMonitorProject.Properties.Resources.resources
+c:\users\richter\source\repos\FileMonitorProject\FileMonitorProject\obj\Debug\FileMonitorProject.csproj.GenerateResource.cache
+c:\users\richter\source\repos\FileMonitorProject\FileMonitorProject\obj\Debug\FileMonitorProject.csproj.CoreCompileInputs.cache
+c:\users\richter\source\repos\FileMonitorProject\FileMonitorProject\obj\Debug\FileMonitorProject.exe
+c:\users\richter\source\repos\FileMonitorProject\FileMonitorProject\obj\Debug\FileMonitorProject.pdb
+c:\users\richter\source\repos\FileMonitorProject\FileMonitorProject\obj\Debug\FileMonitorProject.Login.resources
+C:\Users\Richter\source\repos\FileMonitorProject\FileMonitorProject\bin\Debug\Passwords.txt
+C:\Users\Richter\source\repos\FileMonitorProject\FileMonitorProject\obj\Debug\FileMonitorProject.csprojAssemblyReference.cache
